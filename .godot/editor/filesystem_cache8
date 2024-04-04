@@ -1,0 +1,11 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1712228124
+icon.svg::CompressedTexture2D::244054032269534622::1712129935::1712129945::1::::<><>::
+player.tscn::PackedScene::4981509206063635233::1712142611::0::1::::<><>::res://Scripts/player.gd
+world.tscn::PackedScene::5874946349107657867::1712152680::0::1::::<><>::uid://cc8cy1rnn86wb::::res://player.tscn
+::res://Scripts/::1712142609
+player.gd::GDScript::-1::1712142609::0::1::::<>CharacterBody3D<>::
+::res://Textures/::1712130536
+ConcreteDirty0356_9_500.jpg::CompressedTexture2D::2975008355801962388::1712130533::1712130536::1::::<><>::
+TCom_Wall_ConcretePanel2_header4.jpg::CompressedTexture2D::3412661526045279524::1712130251::1712130284::1::::<><>::
+TCom_Wall_ConcretePanel2_header.jpg::CompressedTexture2D::8175906854949832564::1712130141::1712130194::1::::<><>::

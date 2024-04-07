@@ -1,2 +1,4 @@
 res://world.tscn
 res://player.tscn
+res://Scripts/player.gd
+res://Scripts/footstepManager.gd
